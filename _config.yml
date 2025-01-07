@@ -118,10 +118,10 @@ author:
       # url: "https://twitter.com/Adamsauce99"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/AdamBougher"
+      url: "https://github.com/AdamBougher"
     - label: "Linkedin"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://www.linkedin.com/in/adam-j-bougher/"
+      url: "https://www.linkedin.com/in/adam-j-bougher/"
 
 # Reading Files
 include:
